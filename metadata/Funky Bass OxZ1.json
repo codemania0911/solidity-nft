@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmdweqANkbhzgmGHeVympfgLnEjJAFhESTriAdk6mTeaJ5",
+    "name": "Funky Bass OxZ",
+    "description": "Who doesn't love the *bonk* *bonk* funky sound of the bass",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 1
+        }
+    ]
+}

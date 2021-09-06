@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmXEogGmhPykg5rxZj6y5yGACQB4otWZV4hponoHnQfHZP",
+    "name": "Poly OxZ (no line art)",
+    "description": "Abstract  poly Ox with no line art",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

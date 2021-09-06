@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmUqSg1kynkwLu6idqkaXgmxvYbgeg5jfDEZNJ5MW5PrHn",
+    "name": "Poly OxZ (lined)",
+    "description": "Simple abstract poly Ox",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

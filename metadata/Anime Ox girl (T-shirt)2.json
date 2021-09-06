@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmdkveJiGvZVQKPopejc8HLHsVRdAK31CAAWzAByLSSnkk",
+    "name": "Anime Ox girl (T-shirt)",
+    "description": "Sugoi! Sugoi!",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

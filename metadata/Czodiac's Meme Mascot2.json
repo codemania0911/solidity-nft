@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmS7Rgygria1NjmLcyBwuDzkotTVgdgdehXxv59E41rX1E",
+    "name": "Czodiac's Meme Mascot",
+    "description": "Much wow Ox yes",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

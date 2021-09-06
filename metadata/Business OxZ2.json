@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmeNVL2TxpsXtXi4ihSjnHVeDxAZq8nGcnpdAK68a4E9aY",
+    "name": "Business OxZ",
+    "description": "Business Ox doing OxZ business",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

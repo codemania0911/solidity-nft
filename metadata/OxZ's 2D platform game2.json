@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmcCZbTZwWaxtBuamtnZ67SjK39S6cUfurqZHSHBFffa1K",
+    "name": "OxZ's 2D platform game",
+    "description": "Who wants to play a game?",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

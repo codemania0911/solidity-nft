@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmS8oqHXxaYxKDKmQH1vTyTyucKV4RoxJo6xyVjPsf4xxq",
+    "name": "Anime Ox girl (hoodie)",
+    "description": "Be Kawaii and be warm!",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

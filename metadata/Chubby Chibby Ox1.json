@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmNMqZZ8LmCWJbQeYLwyB7dhrvUrM2Ra3vuiBqnPunSapz",
+    "name": "Chubby Chibby Ox",
+    "description": "He's chubby, be gentle",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 1
+        }
+    ]
+}

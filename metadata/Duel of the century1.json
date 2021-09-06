@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmdpJECJxVxhHQEh4syXjkBNk4Q2aXreTWj6ys7cuUMdF8",
+    "name": "Duel of the century",
+    "description": "Trust in OxZ you must HmHm",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 1
+        }
+    ]
+}

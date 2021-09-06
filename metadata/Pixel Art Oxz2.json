@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmYCN3FjGnoByEema4YjKMnTxJypjQKfp8WoioJgcNXjfs",
+    "name": "Pixel Art OxZ",
+    "description": "The classic OxZ blocky design",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 2
+        }
+    ]
+}

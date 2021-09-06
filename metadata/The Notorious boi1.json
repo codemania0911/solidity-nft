@@ -1,0 +1,16 @@
+{
+    "image": "ipfs://QmNbw56eT68bmBHCtHivzF92tVLf8HphWt57n31sLxv8A4",
+    "name": "The Notorious boi",
+    "description": "You know who that is, lol",
+    "attributes": [ 
+        {
+            "trait_type": "Zodiac", 
+            "value": "Ox"
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Number", 
+            "value": 1
+        }
+    ]
+}
